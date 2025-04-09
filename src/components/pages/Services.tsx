@@ -8,6 +8,7 @@ import {
   PhoneIcon,
 } from "@heroicons/react/24/outline";
 import { Link } from "react-router-dom";
+import { BoltIcon } from "@heroicons/react/24/outline";
 // Import all necessary icons
 // Copy the entire Services component here
 export default function Services() {
@@ -119,6 +120,24 @@ export default function Services() {
       ],
       price: "от 10 000 ₽",
       image: "/elmontag1/i6.webp",
+    },
+    {
+      title: "Слаботочные системы",
+      icon: <BoltIcon className="h-8 w-8 text-yellow-500" />,
+      description:
+        "Монтаж и обслуживание слаботочных систем для жилых и коммерческих объектов",
+      items: [
+        "Системы видеонаблюдения (IP и аналоговые)",
+        "Охранно-пожарная сигнализация",
+        "Системы контроля доступа (СКУД)",
+        "Домофоны и видеодомофоны",
+        "Структурированные кабельные сети (СКС)",
+        "Системы умного дома",
+        "Телевизионные и спутниковые антенны",
+        "Локальные компьютерные сети",
+      ],
+      price: "от 4 500 ₽",
+      image: "/elmontag1/i7.webp",
     },
   ];
 
