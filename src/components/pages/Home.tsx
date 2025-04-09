@@ -16,7 +16,7 @@ export default function Home() {
     <div className="space-y-16">
       {/* Hero Section */}
       <section className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white rounded-xl overflow-hidden shadow-xl">
-        <div className="absolute inset-0 bg-[url(/public/header.jpeg)] bg-cover bg-center opacity-20"></div>
+        <div className="absolute inset-0 bg-[url(/elmontag1/header.jpeg)] bg-cover bg-center opacity-20"></div>
         <div className="relative max-w-7xl mx-auto px-4 py-24 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
             Профессиональные{" "}

@@ -137,7 +137,7 @@ export default function Services() {
         "Локальные компьютерные сети",
       ],
       price: "от 4 500 ₽",
-      image: "/elmontag1/i7.webp",
+      image: "/elmontag1/i7.jpg",
     },
   ];
 
