@@ -42,7 +42,14 @@ export default function Contact() {
                     Телефоны
                   </h3>
                   <div className="mt-2 space-y-1">
-                    <p className="text-gray-600">+7 (915) 765-98-45</p>
+                    <p className="text-gray-600">
+                      <a
+                        href="tel:+79157659845"
+                        className="hover:text-blue-400"
+                      >
+                        +7 (915) 765-98-45
+                      </a>
+                    </p>
                     {/* <p className="text-gray-600">
                         +7 (916) 987-65-43 (круглосуточно)
                       </p> */}
@@ -72,7 +79,14 @@ export default function Contact() {
                     Электронная почта
                   </h3>
                   <div className="mt-2">
-                    <p className="text-gray-600">iva.iror@ya.ru</p>
+                    <p className="text-gray-600">
+                      <a
+                        href="mailto:iva.iror@ya.ru"
+                        className="hover:text-blue-400"
+                      >
+                        iva.iror@ya.ru
+                      </a>
+                    </p>
                     {/* <p className="text-gray-600">
                         iva.iror@ya.ru (для коммерческих предложений)
                       </p> */}
