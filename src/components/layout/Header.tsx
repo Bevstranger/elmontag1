@@ -66,7 +66,7 @@ export function Header() {
                 <span>Проекты</span>
               </Link>
               <Link
-                to="/contact"
+                to="#"
                 className="flex items-center px-4 py-2 rounded-lg hover:bg-blue-600 transition-colors duration-300 group"
               >
                 <PhoneIcon className="h-5 w-5 mr-2 group-hover:text-yellow-300" />
