@@ -114,7 +114,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/public/i1.jpg)",
+                backgroundImage: "url(/elmontag1/i1.jpg)",
               }}
             ></div>
             <div className="p-6">
@@ -154,7 +154,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/public/i2.jpg)",
+                backgroundImage: "url(/elmontag1/i2.jpg)",
               }}
             ></div>
             <div className="p-6">
@@ -192,7 +192,7 @@ export default function Home() {
             <div
               className="h-48 bg-cover bg-center"
               style={{
-                backgroundImage: "url(/elmontag1/public/i3.jpg)",
+                backgroundImage: "url(/elmontag1/i3.jpg)",
               }}
             ></div>
             <div className="p-6">
