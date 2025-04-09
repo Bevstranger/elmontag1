@@ -78,7 +78,12 @@ export function Footer() {
               <li className="flex items-center justify-center md:justify-start">
                 <PhoneIcon className="h-5 w-5 mr-2" />
                 <div>
-                  <p>+7 (916) 987-65-43</p>
+                  <a
+                    href="tel:+7 (916) 987-65-43"
+                    className="hover:text-yellow-400"
+                  >
+                    +7 (916) 987-65-43
+                  </a>
                 </div>
               </li>
               <li className="flex items-center justify-center md:justify-start">
@@ -96,7 +101,12 @@ export function Footer() {
                     d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                   />
                 </svg>
-                <span>iva.iror@ya.ru</span>
+                <a
+                  href="mailto:iva.iror@ya.ru"
+                  className="text-gray-400 hover:text-yellow-400"
+                >
+                  iva.iror@ya.ru
+                </a>
               </li>
               <li className="flex items-center justify-center md:justify-start">
                 <svg
