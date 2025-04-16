@@ -102,10 +102,10 @@ export function Footer() {
                   />
                 </svg>
                 <a
-                  href="mailto:iva.iror@ya.ru"
+                  href="mailto:iva.igor@ya.ru"
                   className="text-gray-400 hover:text-yellow-400"
                 >
-                  iva.iror@ya.ru
+                  iva.igor@ya.ru
                 </a>
               </li>
               <li className="flex items-center justify-center md:justify-start">

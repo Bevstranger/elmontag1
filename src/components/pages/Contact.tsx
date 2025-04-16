@@ -81,10 +81,10 @@ export default function Contact() {
                   <div className="mt-2">
                     <p className="text-gray-600">
                       <a
-                        href="mailto:iva.iror@ya.ru"
+                        href="mailto:iva.igor@ya.ru"
                         className="hover:text-blue-400"
                       >
-                        iva.iror@ya.ru
+                        iva.igor@ya.ru
                       </a>
                     </p>
                     {/* <p className="text-gray-600">
